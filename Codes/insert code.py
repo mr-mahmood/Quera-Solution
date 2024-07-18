@@ -8,7 +8,7 @@ def scrap_web(url, username, passeord):
     browser.get(url)
     
     guestion_name = browser.find_element(By.XPATH,".//div[@id='__next']//h1[@class='chakra-heading css-1o1jsbj']").text
-    guestion_difficulty = browser.find_element(By.XPATH,".//div[@id='__next']//span[@class='chakra-badge css-8s06d1']").text
+    guestion_difficulty = browser.find_element(By.XPATH,".//div[@id='__next']//span[contains(@class, 'chakra-badge css-')]").text
     
     browser.find_element(By.XPATH,".//div[@id='__next']//button[@class='chakra-tabs__tab css-3wuodn'][2]").click()
     time.sleep(1)
@@ -100,8 +100,11 @@ if __name__ == '__main__':
     
     path_to_answer = input('Please enter path to your directory that all of your complete codes is there: ')
     
-    user_name = input("Please enter your Quera user name: ")
-    password = input("Please enter your Quera password: ")
+    user_name = 'mr.manmahmood@gmail.com'
+    password = 'feS2U4X4iQxLSSQ'
+    
+    #user_name = input("Please enter your Quera user name: ")
+    #password = input("Please enter your Quera password: ")
     
     browser = webdriver.Chrome()
     browser.get('https://quera.org/accounts/login')  
@@ -121,6 +124,7 @@ if __name__ == '__main__':
         
     for i in files_in_folder:
         if i not in read_in_file:
+            
             with open(path_to_answer+'/'+i, 'r', encoding='utf-8') as f:
                 script = f.readlines()
             
@@ -132,6 +136,9 @@ if __name__ == '__main__':
                 script.insert(0, f"# {url}\n")
                 
             insert_code(info, script)
+        
+        os.remove(path_to_answer+'/'+i)
+        
     
     update_table()
     
