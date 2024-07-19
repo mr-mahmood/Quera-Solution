@@ -99,6 +99,9 @@
 65 | 221463 | [ربع فیل](https://quera.org/problemset/221463) | ساده | [۱۰۰](Codes/easy/221463/221463_1.py) | |
 66 | 226378 | [خمیدگی مار](https://quera.org/problemset/226378) | ساده | [۱۰۰](Codes/easy/226378/226378_1.py) | |
 67 | 228669 | [شهرهای مرزی](https://quera.org/problemset/228669) | ساده | [۱۰۰](Codes/easy/228669/228669_1.py) | |
+
+
+[بازگشت به ابتدا :back:](#حل-سوالات-Quera)
 ***
 
 </div>
