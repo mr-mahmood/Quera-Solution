@@ -20,13 +20,9 @@ def scrap_web(url):
     # Extract question difficulty
     question_difficulty = soup.select_one("div#__next span[class*='chakra-badge css-']").text
     
-    # Extract all tags
-    all_tags_elements = soup.select("div#__next div.chakra-stack.css-1ainr4z span[dir='rtl'].chakra-text.css-zvlevn")
     question_id = url.split('/')[-1]
     
-    tags = [tag.text for tag in all_tags_elements if tag.text in correct_tags]
-    
-    return [question_name, question_difficulty, 0, question_id, tags]
+    return [question_name, question_difficulty, 0, question_id]
 
 
 
