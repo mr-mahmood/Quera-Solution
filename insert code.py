@@ -1,18 +1,32 @@
-from selenium.webdriver.common.by import By
-from selenium import webdriver
+import requests
+from bs4 import BeautifulSoup
 import os
-import time
 
 def scrap_web(url):
-
-    browser.get(url)
     
-    guestion_name = browser.find_element(By.XPATH,".//div[@id='__next']//h1[@class='chakra-heading css-1o1jsbj']").text
-    guestion_difficulty = browser.find_element(By.XPATH,".//div[@id='__next']//span[contains(@class, 'chakra-badge css-')]").text
-    question_id = url.split('/')
-    question_id = question_id[len(question_id)-1]
+    # Start a session
+    session = requests.Session()
     
-    return [guestion_name, guestion_difficulty, 0, question_id]
+    # Get the page content
+    response = session.get(url)
+    response.raise_for_status()  # Ensure we notice bad responses
+    
+    # Parse the HTML content
+    soup = BeautifulSoup(response.content, 'html.parser')
+    
+    # Extract question name
+    question_name = soup.select_one("div#__next h1.chakra-heading.css-1o1jsbj").text
+    
+    # Extract question difficulty
+    question_difficulty = soup.select_one("div#__next span[class*='chakra-badge css-']").text
+    
+    # Extract all tags
+    all_tags_elements = soup.select("div#__next div.chakra-stack.css-1ainr4z span[dir='rtl'].chakra-text.css-zvlevn")
+    question_id = url.split('/')[-1]
+    
+    tags = [tag.text for tag in all_tags_elements if tag.text in correct_tags]
+    
+    return [question_name, question_difficulty, 0, question_id, tags]
 
 
 
@@ -93,7 +107,7 @@ def update_table():
     
 if __name__ == '__main__':
     
-    browser = webdriver.Chrome()
+    
     path_to_answer = input('Please enter path to your directory that all of your complete codes is there: ')
 
     files_in_folder = os.listdir(path_to_answer)
