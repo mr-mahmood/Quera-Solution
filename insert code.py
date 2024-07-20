@@ -3,7 +3,7 @@ from selenium import webdriver
 import os
 import time
 
-def scrap_web(url, username, passeord):
+def scrap_web(url):
 
     browser.get(url)
     
@@ -58,7 +58,7 @@ def update_csv(text):
     read_in_file.sort(key=lambda x:int(x[1]))
     
     for i in range(1, len(read_in_file)+1):
-        read_in_file[i-1][0] = str(i)
+        read_in_file[i-1][0] = '| ' + str(i)
     
     
     read_in_file = [' | '.join(i) for i in read_in_file]
@@ -78,7 +78,7 @@ def update_table():
         text = f.read()
         text = text.split('***\n')
     
-    table = text[len(text)-2].split('1 |')
+    table = text[len(text)-2].split('| 1 |')
     table[1] = read_in_file
     
     text[len(text)-2] = table[0]+table[1]+'\n[بازگشت به ابتدا :back:](#حل-سوالات-Quera)\n'
@@ -94,11 +94,9 @@ def update_table():
 if __name__ == '__main__':
     
     browser = webdriver.Chrome()
-    
     path_to_answer = input('Please enter path to your directory that all of your complete codes is there: ')
 
     files_in_folder = os.listdir(path_to_answer)
-    
     with open('question.txt', 'r', encoding='utf-8') as f:
         read_in_file = f.readlines()
         read_in_file = [(i.split(' | ')[1]+'.py') for i in read_in_file]
@@ -111,7 +109,7 @@ if __name__ == '__main__':
             
                 
             url = 'https://quera.org/problemset/'+i[:len(i)-3]
-            info = scrap_web(url, user_name, password)
+            info = scrap_web(url)
             
             if script[0] != '# '+url+'\n':
                 script.insert(0, f"# {url}\n")
