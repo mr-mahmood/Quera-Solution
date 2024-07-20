@@ -11,8 +11,12 @@ def scrap_web(url):
     response = session.get(url)
     response.raise_for_status()  # Ensure we notice bad responses
     
+    # Decode the response content with UTF-8 encoding
+    response.encoding = 'utf-8'
+    content = response.text
+    
     # Parse the HTML content
-    soup = BeautifulSoup(response.content, 'html.parser')
+    soup = BeautifulSoup(content, 'html.parser')
     
     # Extract question name
     question_name = soup.select_one("div#__next h1.chakra-heading.css-1o1jsbj").text
