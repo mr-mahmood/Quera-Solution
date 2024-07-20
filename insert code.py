@@ -116,19 +116,18 @@ if __name__ == '__main__':
         read_in_file = [(i.split(' | ')[1]+'.py') for i in read_in_file]
         
     for i in files_in_folder:
-        if i not in read_in_file:
             
-            with open(path_to_answer+'/'+i, 'r', encoding='utf-8') as f:
-                script = f.readlines()
+        with open(path_to_answer+'/'+i, 'r', encoding='utf-8') as f:
+            script = f.readlines()
+        
             
-                
-            url = 'https://quera.org/problemset/'+i[:len(i)-3]
-            info = scrap_web(url)
+        url = 'https://quera.org/problemset/'+i[:len(i)-3]
+        info = scrap_web(url)
+        
+        if script[0] != '# '+url+'\n':
+            script.insert(0, f"# {url}\n")
             
-            if script[0] != '# '+url+'\n':
-                script.insert(0, f"# {url}\n")
-                
-            insert_code(info, script)
+        insert_code(info, script)
         
     
     update_table()
