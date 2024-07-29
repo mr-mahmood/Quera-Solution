@@ -33,44 +33,53 @@
 | 33 | 3539 | [تک‌رقمی](https://quera.org/problemset/3539) | متوسط | [جواب](Codes/mid/3539/) | |
 | 34 | 3540 | [گردو شکستم](https://quera.org/problemset/3540) | ساده | [جواب](Codes/easy/3540/) | |
 | 35 | 4065 | [خر در چمن فراوونه!!](https://quera.org/problemset/4065) | ساده | [جواب](Codes/easy/4065/) | |
-| 36 | 6374 | [مبنای شونزده](https://quera.org/problemset/6374) | متوسط | [جواب](Codes/mid/6374/) | |
-| 37 | 9722 | [رمزهای جان‌سخت](https://quera.org/problemset/9722) | سخت | [جواب](Codes/hard/9722/) | |
-| 38 | 9773 | [لوزی‌های ستاره‌ای](https://quera.org/problemset/9773) | ساده | [جواب](Codes/easy/9773/) | |
-| 39 | 9774 | [عدد چاپ‌کن](https://quera.org/problemset/9774) | سخت | [جواب](Codes/hard/9774/) | |
-| 40 | 10162 | [روز آزادی بیان در برره](https://quera.org/problemset/10162) | ساده | [جواب](Codes/easy/10162/) | |
-| 41 | 10230 | [مشق امشب باقر](https://quera.org/problemset/10230) | متوسط | [جواب](Codes/mid/10230/) | |
-| 42 | 10325 | [همایش زندگی بهتر](https://quera.org/problemset/10325) | ساده | [جواب](Codes/easy/10325/) | |
-| 43 | 10636 | [کارمند زیادی](https://quera.org/problemset/10636) | متوسط | [جواب](Codes/mid/10636/) | |
-| 44 | 17675 | [رشته فیبوناچی](https://quera.org/problemset/17675) | متوسط | [جواب](Codes/mid/17675/) | |
-| 45 | 18310 | [Joos](https://quera.org/problemset/18310) | ساده | [جواب](Codes/easy/18310/) | |
-| 46 | 35254 | [پاکسازی](https://quera.org/problemset/35254) | متوسط | [جواب](Codes/mid/35254/) | |
-| 47 | 44077 | [کاغذ کادو چهارضلعی](https://quera.org/problemset/44077) | ساده | [جواب](Codes/easy/44077/) | |
-| 48 | 49028 | [کلید چراغ](https://quera.org/problemset/49028) | ساده | [جواب](Codes/easy/49028/) | |
-| 49 | 51865 | [بهداشت و سلامت](https://quera.org/problemset/51865) | ساده | [جواب](Codes/easy/51865/) | |
-| 50 | 52542 | [کاکتوس‌های پردردسر](https://quera.org/problemset/52542) | ساده | [جواب](Codes/easy/52542/) | |
-| 51 | 52543 | [بازی](https://quera.org/problemset/52543) | متوسط | [جواب](Codes/mid/52543/) | |
-| 52 | 60134 | [شطرنج میوه‌ای](https://quera.org/problemset/60134) | متوسط | [جواب](Codes/mid/60134/) | |
-| 53 | 64434 | [چاپگر](https://quera.org/problemset/64434) | ساده | [جواب](Codes/easy/64434/) | |
-| 54 | 66859 | [آلفا قنطورس](https://quera.org/problemset/66859) | ساده | [جواب](Codes/easy/66859/) | |
-| 55 | 66862 | [مصائب کامبیز](https://quera.org/problemset/66862) | ساده | [جواب](Codes/easy/66862/) | |
-| 56 | 66864 | [کلاس کد!](https://quera.org/problemset/66864) | ساده | [جواب](Codes/easy/66864/) | |
-| 57 | 72880 | [معجون سوسک قرمز و اسفناج گندیده](https://quera.org/problemset/72880) | ساده | [جواب](Codes/easy/72880/) | |
-| 58 | 72882 | [پرگوشت](https://quera.org/problemset/72882) | ساده | [جواب](Codes/easy/72882/) | |
-| 59 | 87176 | [بازی تفاضل](https://quera.org/problemset/87176) | متوسط | [جواب](Codes/mid/87176/) | |
-| 60 | 108665 | [کلمه کلمه](https://quera.org/problemset/108665) | ساده | [جواب](Codes/easy/108665/) | |
-| 61 | 129726 | [مُجَزا](https://quera.org/problemset/129726) | ساده | [جواب](Codes/easy/129726/) | |
-| 62 | 132252 | [Parquet (2020)](https://quera.org/problemset/132252) | ساده | [جواب](Codes/easy/132252/) | |
-| 63 | 148099 | [اعداد یکتا](https://quera.org/problemset/148099) | ساده | [جواب](Codes/easy/148099/) | |
-| 64 | 168943 | [Jack-Jack and Matrices](https://quera.org/problemset/168943) | ساده | [جواب](Codes/easy/168943/) | |
-| 65 | 168950 | [Seasons](https://quera.org/problemset/168950) | ساده | [جواب](Codes/easy/168950/) | |
-| 66 | 171795 | [Ali the Forgetter](https://quera.org/problemset/171795) | ساده | [جواب](Codes/easy/171795/) | |
-| 67 | 177664 | [اختلاس](https://quera.org/problemset/177664) | ساده | [جواب](Codes/easy/177664/) | |
-| 68 | 178600 | [داروی کرونا](https://quera.org/problemset/178600) | ساده | [جواب](Codes/easy/178600/) | |
-| 69 | 218361 | [روبه‌رو در مترو](https://quera.org/problemset/218361) | ساده | [جواب](Codes/easy/218361/) | |
-| 70 | 220668 | [کافی‌نت رفقا](https://quera.org/problemset/220668) | ساده | [جواب](Codes/easy/220668/) | |
-| 71 | 220669 | [لوگو دلتا](https://quera.org/problemset/220669) | ساده | [جواب](Codes/easy/220669/) | |
-| 72 | 221452 | [جمع دو عدد](https://quera.org/problemset/221452) | ساده | [جواب](Codes/easy/221452/) | |
-| 73 | 221462 | [نقطه‌ی گم‌شده](https://quera.org/problemset/221462) | ساده | [جواب](Codes/easy/221462/) | |
-| 74 | 221463 | [ربع فیل](https://quera.org/problemset/221463) | ساده | [جواب](Codes/easy/221463/) | |
-| 75 | 226378 | [خمیدگی مار](https://quera.org/problemset/226378) | ساده | [جواب](Codes/easy/226378/) | |
-| 76 | 228669 | [شهرهای مرزی](https://quera.org/problemset/228669) | ساده | [جواب](Codes/easy/228669/) | |
+| 36 | 6192 | [مسئله‌ی آب](https://quera.org/problemset/6192) | ساده | [جواب](Codes/easy/6192/) | |
+| 37 | 6374 | [مبنای شونزده](https://quera.org/problemset/6374) | متوسط | [جواب](Codes/mid/6374/) | |
+| 38 | 7998 | [صفحه‌کلید انتخاباتی](https://quera.org/problemset/7998) | ساده | [جواب](Codes/easy/7998/) | |
+| 39 | 9722 | [رمزهای جان‌سخت](https://quera.org/problemset/9722) | سخت | [جواب](Codes/hard/9722/) | |
+| 40 | 9773 | [لوزی‌های ستاره‌ای](https://quera.org/problemset/9773) | ساده | [جواب](Codes/easy/9773/) | |
+| 41 | 9774 | [عدد چاپ‌کن](https://quera.org/problemset/9774) | سخت | [جواب](Codes/hard/9774/) | |
+| 42 | 10162 | [روز آزادی بیان در برره](https://quera.org/problemset/10162) | ساده | [جواب](Codes/easy/10162/) | |
+| 43 | 10166 | [سیکل گرفتن در برره](https://quera.org/problemset/10166) | ساده | [جواب](Codes/easy/10166/) | |
+| 44 | 10230 | [مشق امشب باقر](https://quera.org/problemset/10230) | متوسط | [جواب](Codes/mid/10230/) | |
+| 45 | 10325 | [همایش زندگی بهتر](https://quera.org/problemset/10325) | ساده | [جواب](Codes/easy/10325/) | |
+| 46 | 10636 | [کارمند زیادی](https://quera.org/problemset/10636) | متوسط | [جواب](Codes/mid/10636/) | |
+| 47 | 17675 | [رشته فیبوناچی](https://quera.org/problemset/17675) | متوسط | [جواب](Codes/mid/17675/) | |
+| 48 | 18310 | [Joos](https://quera.org/problemset/18310) | ساده | [جواب](Codes/easy/18310/) | |
+| 49 | 35254 | [پاکسازی](https://quera.org/problemset/35254) | متوسط | [جواب](Codes/mid/35254/) | |
+| 50 | 44077 | [کاغذ کادو چهارضلعی](https://quera.org/problemset/44077) | ساده | [جواب](Codes/easy/44077/) | |
+| 51 | 49028 | [کلید چراغ](https://quera.org/problemset/49028) | ساده | [جواب](Codes/easy/49028/) | |
+| 52 | 51865 | [بهداشت و سلامت](https://quera.org/problemset/51865) | ساده | [جواب](Codes/easy/51865/) | |
+| 53 | 52542 | [کاکتوس‌های پردردسر](https://quera.org/problemset/52542) | ساده | [جواب](Codes/easy/52542/) | |
+| 54 | 52543 | [بازی](https://quera.org/problemset/52543) | متوسط | [جواب](Codes/mid/52543/) | |
+| 55 | 60134 | [شطرنج میوه‌ای](https://quera.org/problemset/60134) | متوسط | [جواب](Codes/mid/60134/) | |
+| 56 | 64434 | [چاپگر](https://quera.org/problemset/64434) | ساده | [جواب](Codes/easy/64434/) | |
+| 57 | 66859 | [آلفا قنطورس](https://quera.org/problemset/66859) | ساده | [جواب](Codes/easy/66859/) | |
+| 58 | 66862 | [مصائب کامبیز](https://quera.org/problemset/66862) | ساده | [جواب](Codes/easy/66862/) | |
+| 59 | 66864 | [کلاس کد!](https://quera.org/problemset/66864) | ساده | [جواب](Codes/easy/66864/) | |
+| 60 | 72880 | [معجون سوسک قرمز و اسفناج گندیده](https://quera.org/problemset/72880) | ساده | [جواب](Codes/easy/72880/) | |
+| 61 | 72882 | [پرگوشت](https://quera.org/problemset/72882) | ساده | [جواب](Codes/easy/72882/) | |
+| 62 | 87176 | [بازی تفاضل](https://quera.org/problemset/87176) | متوسط | [جواب](Codes/mid/87176/) | |
+| 63 | 108665 | [کلمه کلمه](https://quera.org/problemset/108665) | ساده | [جواب](Codes/easy/108665/) | |
+| 64 | 127289 | [تکرار کدکاپی](https://quera.org/problemset/127289) | ساده | [جواب](Codes/easy/127289/) | |
+| 65 | 127290 | [دَنگ و دُنگ](https://quera.org/problemset/127290) | ساده | [جواب](Codes/easy/127290/) | |
+| 66 | 129726 | [مُجَزا](https://quera.org/problemset/129726) | ساده | [جواب](Codes/easy/129726/) | |
+| 67 | 132252 | [Parquet (2020)](https://quera.org/problemset/132252) | ساده | [جواب](Codes/easy/132252/) | |
+| 68 | 148099 | [اعداد یکتا](https://quera.org/problemset/148099) | ساده | [جواب](Codes/easy/148099/) | |
+| 69 | 168943 | [Jack-Jack and Matrices](https://quera.org/problemset/168943) | ساده | [جواب](Codes/easy/168943/) | |
+| 70 | 168950 | [Seasons](https://quera.org/problemset/168950) | ساده | [جواب](Codes/easy/168950/) | |
+| 71 | 171795 | [Ali the Forgetter](https://quera.org/problemset/171795) | ساده | [جواب](Codes/easy/171795/) | |
+| 72 | 176775 | [اعداد شبه‌باینری](https://quera.org/problemset/176775) | ساده | [جواب](Codes/easy/176775/) | |
+| 73 | 176782 | [خانه‌ی دوست](https://quera.org/problemset/176782) | ساده | [جواب](Codes/easy/176782/) | |
+| 74 | 177662 | [شکلات فروشی](https://quera.org/problemset/177662) | متوسط | [جواب](Codes/mid/177662/) | |
+| 75 | 177663 | [چهار عدد](https://quera.org/problemset/177663) | ساده | [جواب](Codes/easy/177663/) | |
+| 76 | 177664 | [اختلاس](https://quera.org/problemset/177664) | ساده | [جواب](Codes/easy/177664/) | |
+| 77 | 178600 | [داروی کرونا](https://quera.org/problemset/178600) | ساده | [جواب](Codes/easy/178600/) | |
+| 78 | 218361 | [روبه‌رو در مترو](https://quera.org/problemset/218361) | ساده | [جواب](Codes/easy/218361/) | |
+| 79 | 220668 | [کافی‌نت رفقا](https://quera.org/problemset/220668) | ساده | [جواب](Codes/easy/220668/) | |
+| 80 | 220669 | [لوگو دلتا](https://quera.org/problemset/220669) | ساده | [جواب](Codes/easy/220669/) | |
+| 81 | 221452 | [جمع دو عدد](https://quera.org/problemset/221452) | ساده | [جواب](Codes/easy/221452/) | |
+| 82 | 221462 | [نقطه‌ی گم‌شده](https://quera.org/problemset/221462) | ساده | [جواب](Codes/easy/221462/) | |
+| 83 | 221463 | [ربع فیل](https://quera.org/problemset/221463) | ساده | [جواب](Codes/easy/221463/) | |
+| 84 | 226378 | [خمیدگی مار](https://quera.org/problemset/226378) | ساده | [جواب](Codes/easy/226378/) | |
+| 85 | 228669 | [شهرهای مرزی](https://quera.org/problemset/228669) | ساده | [جواب](Codes/easy/228669/) | |
