@@ -87,28 +87,36 @@
 | 61 | 72882 | [پرگوشت](https://quera.org/problemset/72882) | ساده | [جواب](Codes/easy/72882/) | |
 | 62 | 87176 | [بازی تفاضل](https://quera.org/problemset/87176) | متوسط | [جواب](Codes/mid/87176/) | |
 | 63 | 108665 | [کلمه کلمه](https://quera.org/problemset/108665) | ساده | [جواب](Codes/easy/108665/) | |
-| 64 | 127289 | [تکرار کدکاپی](https://quera.org/problemset/127289) | ساده | [جواب](Codes/easy/127289/) | |
-| 65 | 127290 | [دَنگ و دُنگ](https://quera.org/problemset/127290) | ساده | [جواب](Codes/easy/127290/) | |
-| 66 | 129726 | [مُجَزا](https://quera.org/problemset/129726) | ساده | [جواب](Codes/easy/129726/) | |
-| 67 | 132252 | [Parquet (2020)](https://quera.org/problemset/132252) | ساده | [جواب](Codes/easy/132252/) | |
-| 68 | 148099 | [اعداد یکتا](https://quera.org/problemset/148099) | ساده | [جواب](Codes/easy/148099/) | |
-| 69 | 168943 | [Jack-Jack and Matrices](https://quera.org/problemset/168943) | ساده | [جواب](Codes/easy/168943/) | |
-| 70 | 168950 | [Seasons](https://quera.org/problemset/168950) | ساده | [جواب](Codes/easy/168950/) | |
-| 71 | 171795 | [Ali the Forgetter](https://quera.org/problemset/171795) | ساده | [جواب](Codes/easy/171795/) | |
-| 72 | 176775 | [اعداد شبه‌باینری](https://quera.org/problemset/176775) | ساده | [جواب](Codes/easy/176775/) | |
-| 73 | 176782 | [خانه‌ی دوست](https://quera.org/problemset/176782) | ساده | [جواب](Codes/easy/176782/) | |
-| 74 | 177662 | [شکلات فروشی](https://quera.org/problemset/177662) | متوسط | [جواب](Codes/mid/177662/) | |
-| 75 | 177663 | [چهار عدد](https://quera.org/problemset/177663) | ساده | [جواب](Codes/easy/177663/) | |
-| 76 | 177664 | [اختلاس](https://quera.org/problemset/177664) | ساده | [جواب](Codes/easy/177664/) | |
-| 77 | 178600 | [داروی کرونا](https://quera.org/problemset/178600) | ساده | [جواب](Codes/easy/178600/) | |
-| 78 | 218361 | [روبه‌رو در مترو](https://quera.org/problemset/218361) | ساده | [جواب](Codes/easy/218361/) | |
-| 79 | 220668 | [کافی‌نت رفقا](https://quera.org/problemset/220668) | ساده | [جواب](Codes/easy/220668/) | |
-| 80 | 220669 | [لوگو دلتا](https://quera.org/problemset/220669) | ساده | [جواب](Codes/easy/220669/) | |
-| 81 | 221452 | [جمع دو عدد](https://quera.org/problemset/221452) | ساده | [جواب](Codes/easy/221452/) | |
-| 82 | 221462 | [نقطه‌ی گم‌شده](https://quera.org/problemset/221462) | ساده | [جواب](Codes/easy/221462/) | |
-| 83 | 221463 | [ربع فیل](https://quera.org/problemset/221463) | ساده | [جواب](Codes/easy/221463/) | |
-| 84 | 226378 | [خمیدگی مار](https://quera.org/problemset/226378) | ساده | [جواب](Codes/easy/226378/) | |
-| 85 | 228669 | [شهرهای مرزی](https://quera.org/problemset/228669) | ساده | [جواب](Codes/easy/228669/) | |
+| 64 | 110014 | [هندزفری‌ها](https://quera.org/problemset/110014) | ساده | [جواب](Codes/easy/110014/) | |
+| 65 | 110015 | [نمایشگاه مجازی](https://quera.org/problemset/110015) | ساده | [جواب](Codes/easy/110015/) | |
+| 66 | 111990 | [دو شغله](https://quera.org/problemset/111990) | ساده | [جواب](Codes/easy/111990/) | |
+| 67 | 123798 | [خوش‌آمد](https://quera.org/problemset/123798) | ساده | [جواب](Codes/easy/123798/) | |
+| 68 | 127289 | [تکرار کدکاپی](https://quera.org/problemset/127289) | ساده | [جواب](Codes/easy/127289/) | |
+| 69 | 127290 | [دَنگ و دُنگ](https://quera.org/problemset/127290) | ساده | [جواب](Codes/easy/127290/) | |
+| 70 | 129726 | [مُجَزا](https://quera.org/problemset/129726) | ساده | [جواب](Codes/easy/129726/) | |
+| 71 | 132252 | [Parquet (2020)](https://quera.org/problemset/132252) | ساده | [جواب](Codes/easy/132252/) | |
+| 72 | 148099 | [اعداد یکتا](https://quera.org/problemset/148099) | ساده | [جواب](Codes/easy/148099/) | |
+| 73 | 168943 | [Jack-Jack and Matrices](https://quera.org/problemset/168943) | ساده | [جواب](Codes/easy/168943/) | |
+| 74 | 168950 | [Seasons](https://quera.org/problemset/168950) | ساده | [جواب](Codes/easy/168950/) | |
+| 75 | 171795 | [Ali the Forgetter](https://quera.org/problemset/171795) | ساده | [جواب](Codes/easy/171795/) | |
+| 76 | 176775 | [اعداد شبه‌باینری](https://quera.org/problemset/176775) | ساده | [جواب](Codes/easy/176775/) | |
+| 77 | 176776 | [خفن‌ترین هواداران](https://quera.org/problemset/176776) | ساده | [جواب](Codes/easy/176776/) | |
+| 78 | 176782 | [خانه‌ی دوست](https://quera.org/problemset/176782) | ساده | [جواب](Codes/easy/176782/) | |
+| 79 | 177662 | [شکلات فروشی](https://quera.org/problemset/177662) | متوسط | [جواب](Codes/mid/177662/) | |
+| 80 | 177663 | [چهار عدد](https://quera.org/problemset/177663) | ساده | [جواب](Codes/easy/177663/) | |
+| 81 | 177664 | [اختلاس](https://quera.org/problemset/177664) | ساده | [جواب](Codes/easy/177664/) | |
+| 82 | 178600 | [داروی کرونا](https://quera.org/problemset/178600) | ساده | [جواب](Codes/easy/178600/) | |
+| 83 | 218361 | [روبه‌رو در مترو](https://quera.org/problemset/218361) | ساده | [جواب](Codes/easy/218361/) | |
+| 84 | 220668 | [کافی‌نت رفقا](https://quera.org/problemset/220668) | ساده | [جواب](Codes/easy/220668/) | |
+| 85 | 220669 | [لوگو دلتا](https://quera.org/problemset/220669) | ساده | [جواب](Codes/easy/220669/) | |
+| 86 | 221452 | [جمع دو عدد](https://quera.org/problemset/221452) | ساده | [جواب](Codes/easy/221452/) | |
+| 87 | 221462 | [نقطه‌ی گم‌شده](https://quera.org/problemset/221462) | ساده | [جواب](Codes/easy/221462/) | |
+| 88 | 221463 | [ربع فیل](https://quera.org/problemset/221463) | ساده | [جواب](Codes/easy/221463/) | |
+| 89 | 226378 | [خمیدگی مار](https://quera.org/problemset/226378) | ساده | [جواب](Codes/easy/226378/) | |
+| 90 | 228669 | [شهرهای مرزی](https://quera.org/problemset/228669) | ساده | [جواب](Codes/easy/228669/) | |
+| 91 | 228671 | [ساعت شنی](https://quera.org/problemset/228671) | متوسط | [جواب](Codes/mid/228671/) | |
+| 92 | 244100 | [از دات‌نت به گولنگ](https://quera.org/problemset/244100) | ساده | [جواب](Codes/easy/244100/) | |
+| 93 | 244102 | [دزد و پلیس در فانو](https://quera.org/problemset/244102) | ساده | [جواب](Codes/easy/244102/) | |
 
 [بازگشت به ابتدا :back:](#حل-سوالات-Quera)
 ***
